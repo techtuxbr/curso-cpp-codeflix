@@ -13,4 +13,4 @@ Básico
 
 # Indice do curso
 
-#### Aula 01 - Montando ambiente de desenvolvimento
+#### [Aula 01 - Montando ambiente de desenvolvimento](https://github.com/techtuxbr/curso-cpp-codeflix/blob/master/Aulas/01.md)
